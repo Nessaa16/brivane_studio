@@ -65,7 +65,7 @@ export default function Header1({ variant } : any ) {
               <div className="header-btn d-flex align-items-center">
                 <div className="main-button">
                 <Link href="/contact" className='cs_btn cs_style_1 cs_fs_14 text-uppercase'>
-                <span> Lets Talk </span></Link>
+                <span> Contact Us </span></Link>
                   </div>
 
               </div>

@@ -14,31 +14,25 @@ const ServiceDetails = () => {
               <ul className="cs_service_category_list cs_mp_0">
                 <li>
                   <a href="#">
-                  <span>Software Development</span>
+                  <span>UI/UX Design</span>
                   <span><i className="bi bi-arrow-right"></i></span>
                   </a>
                 </li>
                 <li>
                   <a href="#" aria-label="Click to visit service details">
-                  <span>Business Intelligence</span>
+                  <span>Website Design & Management</span>
                   <span><i className="bi bi-arrow-right"></i></span>
                   </a>
                 </li>
                 <li>
                   <a href="#" aria-label="Click to visit service details">
-                  <span>Artificial Intelligence</span>
+                  <span>Branding Design</span>
                   <span><i className="bi bi-arrow-right"></i></span>
                   </a>
                 </li>
                 <li>
                   <a href="#" aria-label="Click to visit service details">
-                  <span>Resource Planning</span>
-                  <span><i className="bi bi-arrow-right"></i></span>
-                  </a>
-                </li>
-                <li>
-                  <a href="#" aria-label="Click to visit service details">
-                  <span>UI/UX Design Services</span>
+                  <span>Graphic Design</span>
                   <span><i className="bi bi-arrow-right"></i></span>
                   </a>
                 </li>

@@ -15,9 +15,7 @@ const page = () => {
             ></BreadCumb> 
             <Services4></Services4>      
             <Marquee2></Marquee2>   
-            <Cta></Cta> 
-            <Pricing2></Pricing2>
-            <Contact2></Contact2>      
+            <Cta></Cta>      
     </div>
   );
 };

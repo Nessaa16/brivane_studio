@@ -6,14 +6,10 @@ import React from 'react';
 const Services4 = () => {
 
     const chooseContent = [
-        {img:'/assets/img/icons/bulb.svg', title:'Branding design', content:'Personalized service plans tailored to your po specific needs and your.'},
-        {img:'/assets/img/icons/email.svg', title:'Email Marketing', content:'Personalized service plans tailored to your po specific needs and your.'},
-        {img:'/assets/img/icons/seo.svg', title:'SEO & Analytics', content:'Personalized service plans tailored to your po specific needs and your.'},
-        {img:'/assets/img/icons/watch.svg', title:'Content Marketing', content:'Personalized service plans tailored to your po specific needs and your.'},
-        {img:'/assets/img/icons/ux-ui.svg', title:'UI/UX Design', content:'Personalized service plans tailored to your po specific needs and your.'},
-        {img:'/assets/img/icons/app.svg', title:'App development', content:'Personalized service plans tailored to your po specific needs and your.'},
-        {img:'/assets/img/icons/business.svg', title:'Business Analysis', content:'Personalized service plans tailored to your po specific needs and your.'},
-        {img:'/assets/img/icons/digital.svg', title:'Digital Strategy', content:'Personalized service plans tailored to your po specific needs and your.'},
+        {img:'/assets/img/icons/ux-ui.svg', title:'UI/UX Design', content:'We design intuitive, user-centered digital experiences that balance usability and aesthetics.'},
+        {img:'/assets/img/icons/email.svg', title:'Website Design & Management', content:'We create modern, responsive websites based on your business needs and help manage it.'},
+        {img:'/assets/img/icons/seo.svg', title:'Graphic Design', content:'We transform ideas into strategic visuals that speak with clarity and intention.'},
+        {img:'/assets/img/icons/watch.svg', title:'Branding Design', content:'We build strong, memorable brand identities that reflect your vision and values.'},
       ]; 
 
     return (

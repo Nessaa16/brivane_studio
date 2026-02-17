@@ -7,11 +7,11 @@ import Image from 'next/image';
 const Faq1 = () => {
 
     const faqContent = [
-        {title:'Bring their individual experience and creative?', content:'Nullam faucibus eleifend mi eu varius. Integer vel tincidunt massa, quis semper odio. Mauris et mollis quam. Nullam fringilla erat id ante commodo sodales.'},
-        {title:'Human centered design to challenges?', content:'Nullam faucibus eleifend mi eu varius. Integer vel tincidunt massa, quis semper odio. Mauris et mollis quam. Nullam fringilla erat id ante commodo sodales.'},
-        {title:'What type of company is measured?', content:'Nullam faucibus eleifend mi eu varius. Integer vel tincidunt massa, quis semper odio. Mauris et mollis quam. Nullam fringilla erat id ante commodo sodales.'},
-        {title:'Developing core web applications?', content:'Nullam faucibus eleifend mi eu varius. Integer vel tincidunt massa, quis semper odio. Mauris et mollis quam. Nullam fringilla erat id ante commodo sodales.'},
-        {title:'Design should enrich our day?', content:'Nullam faucibus eleifend mi eu varius. Integer vel tincidunt massa, quis semper odio. Mauris et mollis quam. Nullam fringilla erat id ante commodo sodales.'},
+        {title:'What services does Brivane Studio offer?', content:'We specialize in UI/UX design, branding design, website design, and graphic design. Our focus is to create strategic and visually compelling solutions that help brands grow and communicate effectively.'},
+        {title:'Who will be working on my project?', content:'Brivane Studio is led by two designers, Bridget and Vanessa. Every project is handled directly by us to ensure consistency, quality, and strategic alignment.'},
+        {title:'Do you provide development services?', content:'We focus primarily on design. However, we can collaborate with developers or provide handoff-ready design files for implementation.'},
+        {title:'How long does a project take?', content:'Project timelines vary depending on scope and complexity.'},
+        {title:'Do you offer revisions?', content:'Yes. We include revision rounds in our project scope to ensure the final result meets your expectations. The number of revisions will be clearly stated in the proposal.'},
       ]; 
 
       const accordionContentRef = useRef(null);
@@ -59,13 +59,7 @@ const Faq1 = () => {
                   <p className="cs_section_subtitle cs_fs-18 cs_semibold cs_accent_color cs_mb_20 wow fadeInDown">
                     FAQ<span className="cs_shape_right"></span>
                   </p>
-                  <h2 className="cs_fs_48 mb-0 wow fadeInUp">Frequently Asked Questions</h2>
-                </div>
-                <div className="cs_height_51 cs_height_lg_50"></div>
-                <div className="cs_video_block cs_style_2 cs_center cs_bg_filed cs_radius_20 position-relative wow fadeInDown" data-background="/assets/img/video_bg_3.jpg">
-                  <a onClick={handelClick} aria-label="Play video button" className="cs_player_btn cs_video_open cs_center cs_radius_50">
-                  <span className="cs_player_btn_icon cs_center cs_blue_color"><span></span></span>
-                  </a>
+                  <h2 className="wow fadeInUp">Frequently Asked Questions</h2>
                 </div>
               </div>
             </div>

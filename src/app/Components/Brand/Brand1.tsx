@@ -15,7 +15,7 @@ const Brand1 = () => {
 <div className="cs_brands_slider position-relative z-2">
       <div className="container">
         <div className="cs_section_heading cs_style_1 cs_type_2">
-          <p className="cs_section_subtitle cs_fs_20 cs_semibold cs_accent_color mb-0">CLIENTS I’VE WORKED WITH</p>
+          <p className="cs_section_subtitle cs_fs_20 cs_semibold cs_accent_color mb-0">CLIENTS WE’VE WORKED WITH</p>
         </div>
         <div className="cs_horizontal_slider_wrapper cs_brands_wrapper">
           <div className="cs_horizontal_slider_in">

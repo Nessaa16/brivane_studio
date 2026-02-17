@@ -37,13 +37,9 @@ const HeroBanner1 = () => {
               </span>
             </div>
             <div className="cs_hero_text position-relative">
-              <div className="cs_hero_shape_1 position-absolute">
-                <Image src="/assets/img/star_shape.svg" alt="img" width={35} height={39}   />
-              </div>
-              <p className="cs_hero_subtitle cs_accent_color cs_semibold">Best Of Your Growth, Our Mission</p>
-              <h1 className="cs_hero_title cs_extra_bold wow fadeInDown">Digital  Marketing <span className="cs_accent_color cs_semibold">Solutions.</span></h1>
+              <h1 className="cs_hero_title cs_extra_bold wow fadeInDown">Purposeful Design <span className="cs_accent_color cs_semibold">Real Impact</span></h1>
               <div className="cs_hero_text_wrapper">
-                <p className="cs_hero_text cs_medium wow fadeInRight">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even</p>
+                <p className="cs_hero_text cs_medium wow fadeInRight">We help businesses stand out through strategic design from intuitive websites to memorable brand identities. Every pixel we create is intentional, purposeful, and built to elevate your brand.</p>
                 <div className="cs_hero_feature_wrapper">
                   <Link href="/about" className="cs_totating_logo cs_heading_bg cs_radius_50 position-relative wow zoomIn">
                   <Image src="/assets/img/circular_text.svg" alt="img" width={94} height={94}   />
@@ -51,39 +47,19 @@ const HeroBanner1 = () => {
                       <Image src="/assets/img/icons/arrow_right.svg" alt="img" width={23} height={23}   />
                     </div>
                   </Link>
-                  <div className="cs_sales_info_wrapper cs_heading_color">
-                    <Image src="/assets/img/icons/growth_balance.svg" alt="img" width={40} height={40}   />
-                    <div className="cs_sales_info">
-                      <h3 className="cs_fs_20 mb-0">85%</h3>
-                      <p className="cs_fs_14 mb-0">Sales Growth</p>
-                    </div>
-                  </div>
                 </div>
               </div>
             </div>
           </div>
           <div className="cs_hero_sidebar">
             <div className="cs_top_content">
-              <div className="cs_clients_info">
-                <a onClick={handelClick} aria-label="Play video button" className="cs_video cs_style_1 cs_video_open cs_center cs_radius_50 cs_mb_20 wow zoomIn">
-                  <Image src="/assets/img/video_bg_1.jpg" alt="img" className="cs_video_bg" width={120} height={120}   />
-                  <Image src="/assets/img/icons/player_1.svg" alt="img" className="position-relative z-1" width={34} height={34}   />
-                </a>
-                <div className="cs_clients_heading cs_mb_10">
-                  <Image src="/assets/img/icons/user_1.svg" alt="img" width={19} height={19}   />
-                  <h3 className="cs_fs_20 mb-0">3k+ <span className="cs_fs_14 cs_medium">Satisfied client</span></h3>
-                </div>
-                <Image src="/assets/img/users-group.png" alt="img" width={176} height={40}   />
-              </div>
+             
             </div>
             <div className="cs_bottom_content wow fadeInUp">
               <div className="cs_market_info">
                 <div className="cs_value_graph">
                   <div className="cs_round_progress_wrap">
                     <div className="cs_round_progress_in">
-                      <div className="cs_round_progress_number cs_fs_14 cs_bold cs_heading_color">
-                        <span data-count-to="81" className="odometer"></span>81%
-                      </div>
                     </div>
                     <div className="cs_round_progress">
                       <svg className="cs_round_progress_percentage" viewBox="0 0 100 100" width="163" height="163" data-percent="81">
@@ -92,33 +68,7 @@ const HeroBanner1 = () => {
                     </div>
                   </div>
                 </div>
-                <div className="cs_value_info">
-                  <p className="cs_fs_14 cs_medium cs_heading_color mb-0">Market value</p>
-                  <h3 className="cs_fs_18 mb-0">$23,53.00</h3>
-                </div>
               </div>
-            </div>
-            <div className="cs_social_links wow fadeInRight">
-              <a href="#" aria-label="Social link">
-              <span className="cs_social_text">Facebook</span>
-              <span className="cs_social_icon cs_heading_bg cs_center cs_accent_color cs_radius_50"><i className="bi bi-facebook"></i></span>
-              </a>
-              <a href="#" aria-label="Social link">
-              <span className="cs_social_text">Instagram</span>
-              <span className="cs_social_icon cs_heading_bg cs_center cs_accent_color cs_radius_50"><i className="bi bi-instagram"></i></span>
-              </a>
-              <a href="#" aria-label="Social link">
-              <span className="cs_social_text">LinkedIn</span>
-              <span className="cs_social_icon cs_heading_bg cs_center cs_accent_color cs_radius_50"><i className="bi bi-linkedin"></i></span>
-              </a>
-              <a href="#" aria-label="Social link">
-              <span className="cs_social_text">Twitter</span>
-              <span className="cs_social_icon cs_heading_bg cs_center cs_accent_color cs_radius_50"><i className="bi bi-twitter-x"></i></span>
-              </a>
-              <a href="#" aria-label="Social link">
-              <span className="cs_social_text">YouTube</span>
-              <span className="cs_social_icon cs_heading_bg cs_center cs_accent_color cs_radius_50"><i className="bi bi-youtube"></i></span>
-              </a>
             </div>
           </div>
         </div>

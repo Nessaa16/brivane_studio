@@ -1,6 +1,6 @@
 import React from 'react';
 import BreadCumb from '../../Components/Common/BreadCumb';
-import Team3 from '../../Components/Team/Team3';
+import Team1 from '../../Components/Team/Team1';
 
 const page = () => {
   return (
@@ -8,8 +8,8 @@ const page = () => {
              <BreadCumb
                 bgimg="/assets/img/page_header.jpg"
                 Title="Team"
-            ></BreadCumb> 
-            <Team3></Team3>         
+            ></BreadCumb>    
+            <Team1></Team1>    
     </div>
   );
 };

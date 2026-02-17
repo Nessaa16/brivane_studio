@@ -22,7 +22,6 @@ const Project1 = () => {
               <span className="cs_shape_left"></span>Latest Work<span className="cs_shape_right"></span>
             </p>
             <h2 className="cs_fs_48 cs_mb_21 wow fadeInUp">Explore Our Project</h2>
-            <p className="cs_section_heading_text mb-0 wow fadeInUp" data-wow-delay="200ms">Our comprehensive suite of digital marketing services is designed to <br/> elevate your brands visibility.</p>
           </div>
         </div>
         <div className="cs_height_60 cs_height_lg_50"></div>

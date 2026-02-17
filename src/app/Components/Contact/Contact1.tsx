@@ -1,7 +1,62 @@
+"use client";
 import Image from 'next/image';
-import React from 'react';
+import React, { useState } from 'react';
 
 const Contact1 = () => {
+    const [formData, setFormData] = useState({
+        name: '',
+        email: '',
+        service: 'choose-service',
+        message: '',
+    });
+    const [loading, setLoading] = useState(false);
+    const [submitStatus, setSubmitStatus] = useState<'idle' | 'success' | 'error'>('idle');
+    const [statusMessage, setStatusMessage] = useState('');
+
+    const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>) => {
+        const { name, value } = e.target;
+        setFormData(prev => ({
+            ...prev,
+            [name]: value,
+        }));
+    };
+
+    const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
+        e.preventDefault();
+        setLoading(true);
+        setSubmitStatus('idle');
+
+        try {
+            const response = await fetch('/api/send-email', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(formData),
+            });
+
+            if (response.ok) {
+                setSubmitStatus('success');
+                setStatusMessage('Email sent successfully! Thank you for reaching out.');
+                setFormData({
+                    name: '',
+                    email: '',
+                    service: 'choose-service',
+                    message: '',
+                });
+            } else {
+                setSubmitStatus('error');
+                setStatusMessage('Failed to send email. Please try again.');
+            }
+        } catch (error) {
+            console.error('Error:', error);
+            setSubmitStatus('error');
+            setStatusMessage('An error occurred. Please try again later.');
+        } finally {
+            setLoading(false);
+        }
+    };
+
     return (
 <section className="position-relative overflow-hidden">
       <div className="cs_height_120 cs_height_lg_80"></div>
@@ -21,7 +76,6 @@ const Contact1 = () => {
               <p className="cs_section_subtitle cs_fs-18 cs_semibold cs_accent_color cs_mb_20 wow fadeInDown">Get In Touch Now<span className="cs_shape_right"></span>
               </p>
               <h2 className="cs_fs_48 cs_mb_20 wow fadeInUp">Feel Free To Contact Us</h2>
-              <p className="cs_section_heading_text mb-0 wow fadeInUp" data-wow-delay="200ms">Our comprehensive suite of digital marketing services </p>
             </div>
             <div className="cs_height_32 cs_height_lg_30"></div>
             <form className="cs_contact_form row cs_row_gap_30 cs_gap_y_24 position-relative z-2">
@@ -36,16 +90,15 @@ const Contact1 = () => {
                   <option value="choose-service">Type Of Service</option>
                   <option value="uiux-design">UI/UX Design</option>
                   <option value="graphics_design">Graphics Design</option>
-                  <option value="photography">Photography</option>
-                  <option value="web-dev">Web Development</option>
-                  <option value="app-dev">App Development</option>
+                  <option value="web-dev">Website Design & Management</option>
+                  <option value="app-dev">Branding Design</option>
                 </select>
               </div>
               <div className="col-md-12">
                 <textarea name="message" rows={3} className="cs_form_field cs_radius_8" placeholder="Write Your Message"></textarea>
               </div>
               <div className="col-md-12">
-                <button type="submit" aria-label="Submit button" className="cs_btn cs_style_1 cs_fs_14 cs_semibold cs_white_color text-uppercase"><span>Submit now</span></button>
+                <button type="submit" aria-label="Submit button" className="cs_btn cs_style_1 cs_fs_14 cs_semibold cs_white_color text-uppercase"><span>Send</span></button>
               </div>
             </form>
             </div>

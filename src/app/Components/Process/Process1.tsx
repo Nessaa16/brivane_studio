@@ -11,12 +11,12 @@ const Process1 = () => {
             <span className="cs_shape_left"></span>Work Process<span className="cs_shape_right"></span>
           </p>
           <h2 className="cs_fs_48 cs_mb_21 wow fadeInUp">Our Solution Process.</h2>
-          <p className="cs_section_heading_text mb-0 wow fadeInUp" data-wow-delay="200ms">Experience Excellence Techtro  Your Leading Digital Solutions Provider. We are a leading digital agency.</p>
+          <p className="cs_section_heading_text mb-0 wow fadeInUp" data-wow-delay="200ms">At Brivane Studio, every project begins with understanding — and ends with intentional design.</p>
         </div>
         <div className="cs_height_60 cs_height_lg_50"></div>
         <div className="cs_process_content">
           <div className="cs_heading_box cs_radius_20">
-            <div className="cs_heading_box_inner cs_center cs_blue_bg cs_bold cs_white_color cs_radius_10 text-center text-uppercase">Digitom Approach</div>
+            <div className="cs_heading_box_inner cs_center cs_blue_bg cs_bold cs_white_color cs_radius_10 text-center text-uppercase">Our Approach</div>
           </div>
           <div className="cs_steps_boxes_wrapper position-relative">
             <div className="cs_stepbox_wrapper position-relative wow fadeInUp">
@@ -37,7 +37,7 @@ const Process1 = () => {
               </span>
               <Image src="/assets/img/step_index_2.svg" alt="img" width={72} height={25}   />
               </span>
-              <div className="cs_stepbox_inner cs_center cs_fs_22 cs_medium cs_heading_color cs_radius_10 text-center">Strategy Development</div>
+              <div className="cs_stepbox_inner cs_center cs_fs_22 cs_medium cs_heading_color cs_radius_10 text-center">Strategy Development & Define</div>
             </div>
             <div className="cs_stepbox_wrapper cs_box_3 position-relative">
               <span className="cs_stepbox_index cs_center cs_radius_50 position-absolute">
@@ -57,7 +57,7 @@ const Process1 = () => {
               </span>
               <Image src="/assets/img/step_index_4.svg" alt="img" width={72} height={25}   />
               </span>
-              <div className="cs_stepbox_inner cs_center cs_fs_22 cs_medium cs_heading_color cs_radius_10 text-center">Launch & QA</div>
+              <div className="cs_stepbox_inner cs_center cs_fs_22 cs_medium cs_heading_color cs_radius_10 text-center">Deliver</div>
             </div>
             <div className="cs_process_shape_1 position-absolute">
               <Image src="/assets/img/process_shape_1.svg" alt="img" width={959} height={208}   />

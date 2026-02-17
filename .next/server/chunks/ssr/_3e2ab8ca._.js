@@ -71,8 +71,6 @@ __turbopack_context__.s({
 });
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-rsc] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/client/app-dir/link.js [app-rsc] (ecmascript)");
-;
 ;
 ;
 const About1 = ()=>{
@@ -119,7 +117,7 @@ const About1 = ()=>{
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                                     className: "cs_fs_48 cs_mb_21 wow fadeInDown",
-                                                    children: "we’re strategic digital marketing agency"
+                                                    children: "Two Designers. One Vision"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/About/About1.tsx",
                                                     lineNumber: 17,
@@ -127,8 +125,16 @@ const About1 = ()=>{
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                     className: "cs_section_heading_text mb-0",
-                                                    children: "In order to scale new customer acquisition and retention for e-commerce brands, we work across the entire customer journey. "
-                                                }, void 0, false, {
+                                                    children: [
+                                                        "Brivane Studio is a creative design agency focused on delivering thoughtful, strategy-driven design solutions. We believe great design is not just about aesthetics, it’s about clarity, functionality, and impact. ",
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                                            fileName: "[project]/src/app/Components/About/About1.tsx",
+                                                            lineNumber: 18,
+                                                            columnNumber: 273
+                                                        }, this),
+                                                        " Founded and led by two passionate designers, we combine creativity with structure to create work that is both visually compelling and strategically effective. "
+                                                    ]
+                                                }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/About/About1.tsx",
                                                     lineNumber: 18,
                                                     columnNumber: 17
@@ -160,7 +166,7 @@ const About1 = ()=>{
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                             className: "cs_list_text",
-                                                            children: "Various analysis options."
+                                                            children: "Purposeful Design. Real Impact."
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/About/About1.tsx",
                                                             lineNumber: 23,
@@ -190,7 +196,7 @@ const About1 = ()=>{
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                             className: "cs_list_text",
-                                                            children: "Page Load (time, size, number of requests)."
+                                                            children: "Design That Speaks for Brands."
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/About/About1.tsx",
                                                             lineNumber: 27,
@@ -220,7 +226,7 @@ const About1 = ()=>{
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                             className: "cs_list_text",
-                                                            children: "Advance Data analysis operation."
+                                                            children: "Design with Strategy. Built for Growth."
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/About/About1.tsx",
                                                             lineNumber: 31,
@@ -236,125 +242,6 @@ const About1 = ()=>{
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/Components/About/About1.tsx",
                                             lineNumber: 20,
-                                            columnNumber: 15
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "cs_about_btn_group",
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                    href: "/about",
-                                                    "aria-label": "Click to visit about us page",
-                                                    className: "cs_btn cs_style_1 cs_fs_14 cs_bold text-uppercase wow fadeInLeft",
-                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        children: "About Us"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                        lineNumber: 35,
-                                                        columnNumber: 156
-                                                    }, this)
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                    lineNumber: 35,
-                                                    columnNumber: 17
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "cs_client_info_wrapper wow fadeInRight",
-                                                    children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                            className: "cs_client_info_header cs_mb_15",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                                    src: "/assets/img/icons/star.svg",
-                                                                    alt: "img",
-                                                                    width: 18,
-                                                                    height: 18
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                                    lineNumber: 38,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "cs_fs_20 cs_bold cs_heading_color",
-                                                                    children: "Trustipilot"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                                    lineNumber: 39,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                            lineNumber: 37,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                            className: "cs_client_review_content",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                    className: "cs_client_thumb",
-                                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                                        src: "/assets/img/client_group_1.png",
-                                                                        alt: "img",
-                                                                        width: 126,
-                                                                        height: 42
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                                        lineNumber: 43,
-                                                                        columnNumber: 23
-                                                                    }, this)
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                                    lineNumber: 42,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                    className: "cs_client_rating_info",
-                                                                    children: [
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                            className: "cs_rating",
-                                                                            "data-rating": "4",
-                                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                className: "cs_rating_percentage"
-                                                                            }, void 0, false, {
-                                                                                fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                                                lineNumber: 47,
-                                                                                columnNumber: 25
-                                                                            }, this)
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                                            lineNumber: 46,
-                                                                            columnNumber: 23
-                                                                        }, this),
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                            className: "cs_fs_14 cs_heading_color mb-0",
-                                                                            children: "450+ reviews"
-                                                                        }, void 0, false, {
-                                                                            fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                                            lineNumber: 49,
-                                                                            columnNumber: 23
-                                                                        }, this)
-                                                                    ]
-                                                                }, void 0, true, {
-                                                                    fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                                    lineNumber: 45,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                            lineNumber: 41,
-                                                            columnNumber: 19
-                                                        }, this)
-                                                    ]
-                                                }, void 0, true, {
-                                                    fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                    lineNumber: 36,
-                                                    columnNumber: 17
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
-                                            fileName: "[project]/src/app/Components/About/About1.tsx",
-                                            lineNumber: 34,
                                             columnNumber: 15
                                         }, this)
                                     ]
@@ -383,7 +270,7 @@ const About1 = ()=>{
                                                     height: 353
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                    lineNumber: 59,
+                                                    lineNumber: 39,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -393,10 +280,10 @@ const About1 = ()=>{
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                                 className: "cs_fs_48 cs_white_color",
-                                                                children: "5K+"
+                                                                children: "10+"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                                lineNumber: 62,
+                                                                lineNumber: 42,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -404,18 +291,18 @@ const About1 = ()=>{
                                                                 children: "Project Completed"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                                lineNumber: 63,
+                                                                lineNumber: 43,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                        lineNumber: 61,
+                                                        lineNumber: 41,
                                                         columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                    lineNumber: 60,
+                                                    lineNumber: 40,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -427,18 +314,18 @@ const About1 = ()=>{
                                                         height: 19
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                        lineNumber: 67,
+                                                        lineNumber: 47,
                                                         columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                    lineNumber: 66,
+                                                    lineNumber: 46,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/Components/About/About1.tsx",
-                                            lineNumber: 58,
+                                            lineNumber: 38,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -451,7 +338,7 @@ const About1 = ()=>{
                                                     height: 453
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                    lineNumber: 71,
+                                                    lineNumber: 51,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -463,29 +350,29 @@ const About1 = ()=>{
                                                         height: 86
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                        lineNumber: 73,
+                                                        lineNumber: 53,
                                                         columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/About/About1.tsx",
-                                                    lineNumber: 72,
+                                                    lineNumber: 52,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/Components/About/About1.tsx",
-                                            lineNumber: 70,
+                                            lineNumber: 50,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/Components/About/About1.tsx",
-                                    lineNumber: 57,
+                                    lineNumber: 37,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/About/About1.tsx",
-                                lineNumber: 56,
+                                lineNumber: 36,
                                 columnNumber: 11
                             }, this)
                         ]
@@ -503,12 +390,12 @@ const About1 = ()=>{
                             height: 932
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/About/About1.tsx",
-                            lineNumber: 80,
+                            lineNumber: 60,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/About/About1.tsx",
-                        lineNumber: 79,
+                        lineNumber: 59,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -520,12 +407,12 @@ const About1 = ()=>{
                             height: 93
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/About/About1.tsx",
-                            lineNumber: 83,
+                            lineNumber: 63,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/About/About1.tsx",
-                        lineNumber: 82,
+                        lineNumber: 62,
                         columnNumber: 9
                     }, this)
                 ]
@@ -538,7 +425,7 @@ const About1 = ()=>{
                 className: "cs_height_120 cs_height_lg_80"
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/About/About1.tsx",
-                lineNumber: 86,
+                lineNumber: 66,
                 columnNumber: 7
             }, this)
         ]
@@ -864,7 +751,7 @@ const Services1 = ()=>{
                                     href: "/service",
                                     className: "cs_btn cs_style_1 cs_fs_16 cs_bold text-uppercase",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        children: "VIEW ALL SERVICES"
+                                        children: "VIEW ALL OUR SERVICES"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Services/Services1.tsx",
                                         lineNumber: 27,
@@ -2704,8 +2591,8 @@ const Team1 = ()=>{
     const teamContent = [
         {
             img: '/assets/img/team_1.jpg',
-            name: 'Esther howard',
-            content: 'Mid-Level Developer',
+            name: 'Bridget Beatrix Claire',
+            content: 'Founder',
             instagram: '#',
             facebook: '#',
             twitter: '#',
@@ -2713,26 +2600,8 @@ const Team1 = ()=>{
         },
         {
             img: '/assets/img/team_2.jpg',
-            name: 'Leslie Alexander',
-            content: 'Founder & CEO',
-            instagram: '#',
-            facebook: '#',
-            twitter: '#',
-            linkedin: '#'
-        },
-        {
-            img: '/assets/img/team_3.jpg',
-            name: 'Theresa Web',
-            content: 'Merchandiser',
-            instagram: '#',
-            facebook: '#',
-            twitter: '#',
-            linkedin: '#'
-        },
-        {
-            img: '/assets/img/team_4.jpg',
-            name: 'Floyd Miles',
-            content: 'Senior Developer',
+            name: 'Vanessa Priscilia Wijaya',
+            content: 'Founder',
             instagram: '#',
             facebook: '#',
             twitter: '#',
@@ -2746,7 +2615,7 @@ const Team1 = ()=>{
                 className: "cs_height_120 cs_height_lg_80"
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                lineNumber: 16,
+                lineNumber: 14,
                 columnNumber: 9
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2754,56 +2623,46 @@ const Team1 = ()=>{
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "cs_section_heading cs_style_1 text-center",
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "cs_section_subtitle cs_fs-18 cs_semibold cs_accent_color cs_center cs_mb_20 wow fadeInDown",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "cs_shape_left"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                        lineNumber: 20,
-                                        columnNumber: 15
-                                    }, this),
-                                    "Our Team",
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "cs_shape_right"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                        lineNumber: 20,
-                                        columnNumber: 62
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                lineNumber: 19,
-                                columnNumber: 13
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                className: "cs_fs_48 cs_mb_21 wow fadeInUp",
-                                children: "Our Professional Experts"
-                            }, void 0, false, {
-                                fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                lineNumber: 22,
-                                columnNumber: 13
-                            }, this)
-                        ]
-                    }, void 0, true, {
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                            className: "cs_section_subtitle cs_fs-18 cs_semibold cs_accent_color cs_center cs_mb_20 wow fadeInDown",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                    className: "cs_shape_left"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/app/Components/Team/Team1.tsx",
+                                    lineNumber: 18,
+                                    columnNumber: 15
+                                }, this),
+                                "Our Team",
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                    className: "cs_shape_right"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/app/Components/Team/Team1.tsx",
+                                    lineNumber: 18,
+                                    columnNumber: 62
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/src/app/Components/Team/Team1.tsx",
+                            lineNumber: 17,
+                            columnNumber: 13
+                        }, this)
+                    }, void 0, false, {
                         fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                        lineNumber: 18,
+                        lineNumber: 16,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "cs_height_60 cs_height_lg_50"
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                        lineNumber: 24,
+                        lineNumber: 21,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "row cs_row_gap_30 cs_gap_y_30 position-relative z-1",
                         children: teamContent.map((item, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "col-lg-3 col-sm-6 wow fadeInDown",
+                                className: "col-lg-4 wow fadeInDown",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "cs_team cs_style_1 position-relative",
                                     children: [
@@ -2817,86 +2676,36 @@ const Team1 = ()=>{
                                                     height: 342
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                                    lineNumber: 31,
+                                                    lineNumber: 28,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                     className: "cs_social_links cs_radius_8 position-absolute",
-                                                    children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                            href: item.instagram,
-                                                            "aria-label": "Social button",
-                                                            className: "cs_social_link cs_center cs_radius_4",
-                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                                className: "bi bi-instagram"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                                                lineNumber: 34,
-                                                                columnNumber: 21
-                                                            }, this)
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                                        href: item.linkedin,
+                                                        "aria-label": "Social button",
+                                                        className: "cs_social_link cs_center cs_radius_4",
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
+                                                            className: "bi bi-linkedin"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                                            lineNumber: 33,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                            href: item.facebook,
-                                                            "aria-label": "Social button",
-                                                            className: "cs_social_link cs_center cs_radius_4",
-                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                                className: "bi bi-facebook"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                                                lineNumber: 36,
-                                                                columnNumber: 21
-                                                            }, this)
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                                            lineNumber: 35,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                            href: item.twitter,
-                                                            "aria-label": "Social button",
-                                                            className: "cs_social_link cs_center cs_radius_4",
-                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                                className: "bi bi-twitter-x"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                                                lineNumber: 38,
-                                                                columnNumber: 21
-                                                            }, this)
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                                            lineNumber: 37,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                            href: item.linkedin,
-                                                            "aria-label": "Social button",
-                                                            className: "cs_social_link cs_center cs_radius_4",
-                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                                className: "bi bi-linkedin"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                                                lineNumber: 40,
-                                                                columnNumber: 21
-                                                            }, this)
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                                            lineNumber: 39,
+                                                            lineNumber: 31,
                                                             columnNumber: 21
                                                         }, this)
-                                                    ]
-                                                }, void 0, true, {
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/app/Components/Team/Team1.tsx",
+                                                        lineNumber: 30,
+                                                        columnNumber: 21
+                                                    }, this)
+                                                }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                                    lineNumber: 32,
+                                                    lineNumber: 29,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                            lineNumber: 30,
+                                            lineNumber: 27,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2910,12 +2719,12 @@ const Team1 = ()=>{
                                                         children: item.name
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                                        lineNumber: 44,
+                                                        lineNumber: 35,
                                                         columnNumber: 65
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                                    lineNumber: 44,
+                                                    lineNumber: 35,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2923,36 +2732,36 @@ const Team1 = ()=>{
                                                     children: item.content
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                                    lineNumber: 45,
+                                                    lineNumber: 36,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                            lineNumber: 43,
+                                            lineNumber: 34,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                    lineNumber: 29,
+                                    lineNumber: 26,
                                     columnNumber: 15
                                 }, this)
                             }, i, false, {
                                 fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                                lineNumber: 28,
+                                lineNumber: 25,
                                 columnNumber: 13
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                        lineNumber: 25,
+                        lineNumber: 22,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "cs_team_shape_1 position-absolute"
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                        lineNumber: 52,
+                        lineNumber: 43,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2964,31 +2773,31 @@ const Team1 = ()=>{
                             height: 573
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                            lineNumber: 54,
+                            lineNumber: 45,
                             columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                        lineNumber: 53,
+                        lineNumber: 44,
                         columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                lineNumber: 17,
+                lineNumber: 15,
                 columnNumber: 9
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "cs_height_120 cs_height_lg_80"
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/Team/Team1.tsx",
-                lineNumber: 57,
+                lineNumber: 48,
                 columnNumber: 9
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/Components/Team/Team1.tsx",
-        lineNumber: 15,
+        lineNumber: 13,
         columnNumber: 9
     }, this);
 };

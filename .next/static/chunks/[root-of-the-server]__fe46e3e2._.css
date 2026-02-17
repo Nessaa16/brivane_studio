@@ -28323,6 +28323,27 @@ label {
   }
 }
 
+.cs_counter_grid_2 {
+  grid-template-columns: repeat(3, auto);
+  justify-content: space-between;
+  gap: 40px;
+  display: grid;
+}
+
+@media (width <= 767px) {
+  .cs_counter_grid_1 {
+    grid-template-columns: repeat(2, auto);
+    justify-content: center;
+    gap: 40px 100px;
+  }
+}
+
+@media (width <= 440px) {
+  .cs_counter_grid_1 {
+    grid-template-columns: repeat(1, auto);
+  }
+}
+
 .cs_case_shape_1 {
   top: 0;
   right: 80%;

@@ -5896,6 +5896,29 @@ label {
   }
 }
 
+.cs_counter_grid_2 {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  gap: 40px;
+}
+@media (max-width: 767px) {
+  .cs_counter_grid_1 {
+    grid-template-columns: repeat(2, auto);
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    gap: 40px 100px;
+  }
+}
+@media (max-width: 440px) {
+  .cs_counter_grid_1 {
+    grid-template-columns: repeat(1, auto);
+  }
+}
+
 /*--------------------------------------------------------------
   17. Casestudie
 ----------------------------------------------------------------*/
